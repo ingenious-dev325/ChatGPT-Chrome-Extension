@@ -52,4 +52,4 @@ Thanks to [Gabe Ragland] for creating (https://github.com/gragland/chatgpt-chrom
 
 ## License
 
-MIT © ingenious-dev325
+MIT © Vikrant Tiwari (follow me on [LinkedIn](https://www.linkedin.com/in/vikrant-tiwari-534261200))
